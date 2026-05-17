@@ -103,7 +103,7 @@
 | haystack/components/generators/hugging\_face\_api.py                                |       86 |        3 |     97% |164-165, 263 |
 | haystack/components/generators/hugging\_face\_local.py                              |       87 |        7 |     92% |128-130, 193, 242-248 |
 | haystack/components/generators/openai.py                                            |       68 |        4 |     94% |149, 215, 217, 243 |
-| haystack/components/generators/openai\_dalle.py                                     |       44 |        2 |     95% |   132-133 |
+| haystack/components/generators/openai\_dalle.py                                     |       49 |        0 |    100% |           |
 | haystack/components/generators/utils.py                                             |       79 |        9 |     89% |31, 45, 91, 124-125, 157, 167, 169, 171 |
 | haystack/components/joiners/\_\_init\_\_.py                                         |        5 |        0 |    100% |           |
 | haystack/components/joiners/answer\_joiner.py                                       |       49 |        2 |     96% |  132, 138 |
@@ -204,7 +204,7 @@
 | haystack/document\_stores/errors/\_\_init\_\_.py                                    |        2 |        0 |    100% |           |
 | haystack/document\_stores/errors/errors.py                                          |        6 |        0 |    100% |           |
 | haystack/document\_stores/in\_memory/\_\_init\_\_.py                                |        5 |        0 |    100% |           |
-| haystack/document\_stores/in\_memory/document\_store.py                             |      408 |       21 |     95% |400-401, 410, 507, 564, 603, 605, 632-633, 648, 671-675, 737-738, 799, 801, 816, 821-822, 953 |
+| haystack/document\_stores/in\_memory/document\_store.py                             |      408 |       20 |     95% |400-401, 410, 507, 564, 603, 605, 632-633, 648, 671-675, 737-738, 799, 801, 816, 821-822 |
 | haystack/document\_stores/types/\_\_init\_\_.py                                     |        4 |        0 |    100% |           |
 | haystack/document\_stores/types/filter\_policy.py                                   |       65 |       12 |     82% |25, 38-39, 166, 174-181, 224-229, 233-239, 319 |
 | haystack/document\_stores/types/policy.py                                           |        6 |        0 |    100% |           |
@@ -265,7 +265,7 @@
 | haystack/utils/type\_serialization.py                                               |      111 |       12 |     89% |62, 64, 174-175, 186-189, 195, 211-214 |
 | haystack/utils/url\_validation.py                                                   |        4 |        0 |    100% |           |
 | haystack/version.py                                                                 |        5 |        2 |     60% |      9-10 |
-| **TOTAL**                                                                           | **17261** | **1218** | **93%** |           |
+| **TOTAL**                                                                           | **17266** | **1215** | **93%** |           |
 
 
 ## Setup coverage badge
